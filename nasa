@@ -1,5 +1,3 @@
-
-Prefix   	Description   
 3.3.3.0/24	
 3.4.7.0/24	
 3.4.9.0/24	
@@ -84,10 +82,10 @@ IRR InvalidROA Signed and Valid3.5.0.0/20
 23.22.0.0/15	
 23.29.61.0/24	
 23.130.112.0/24	
-23.130.240.0/24	EpicUp Holdings Inc
-23.133.224.0/24	Solve Advisors Inc
-23.147.48.0/24	QScend Technologies, Inc.
-23.166.224.0/24	Glexia, Inc.
+23.130.240.0/24	
+23.133.224.0/24	
+23.147.48.0/24	
+23.166.224.0/24	
 23.169.80.0/24	
 23.179.144.0/24	
 23.179.145.0/24	
@@ -112,11 +110,11 @@ IRR InvalidROA Signed and Valid3.5.0.0/20
 35.168.0.0/13	
 44.192.0.0/11	
 44.213.53.0/24	
-45.42.175.0/24	THE LYNX GROUP, LLC
-45.86.112.0/24	Aidoc Medical Ltd.Israel
-45.136.240.0/24	SysAid US East (N. Virginia) DCIsrael
-45.146.157.0/24	United Kingdom
-45.153.167.0/24	United Kingdom
+45.42.175.0/24	
+45.86.112.0/24	
+45.136.240.0/24	
+45.146.157.0/24	
+45.153.167.0/24	
 45.223.13.0/24	Incapsula Inc
 45.223.189.0/24	Incapsula Inc
 50.16.0.0/16	
@@ -188,7 +186,7 @@ IRR InvalidROA Signed and Valid3.5.0.0/20
 54.242.0.0/15	
 62.182.170.0/24	Denmark
 63.140.38.0/23	Adobe Inc.
-IRR ValidROA Signed and Invalid63.140.54.0/24	Adobe Inc.
+63.140.54.0/24	Adobe Inc.
 64.28.43.0/24	The Conversion Pros, Inc.
 64.35.160.0/24	Brivo Systems, LLC
 64.35.167.0/24	Brivo Systems, LLC
@@ -232,7 +230,7 @@ IRR ValidROA Signed and Invalid63.140.54.0/24	Adobe Inc.
 66.51.209.0/24	Roam HQ, Inc.
 66.54.73.0/24	HERE North America LLC
 66.59.61.0/24	CROCKER COMMUNICATIONS
-IRR Valid66.81.81.0/24	HFA Specialty Assets LLC
+66.81.81.0/24	HFA Specialty Assets LLC
 66.81.254.0/24	RingCentral Inc
 66.159.231.0/24	Proofpoint, Inc.
 66.178.138.0/24	NuWave
@@ -243,7 +241,7 @@ IRR Valid66.81.81.0/24	HFA Specialty Assets LLC
 67.202.0.0/18	
 67.215.71.0/24	Cisco OpenDNS, LLC
 67.217.87.0/24	LogMeIn, Inc.
-IRR Valid67.219.180.0/24	Yipit, Inc.
+67.219.180.0/24	Yipit, Inc.
 67.219.240.0/24	Avago Technologies U.S. Inc.
 67.219.246.0/24	Avago Technologies U.S. Inc.
 67.221.39.0/24	
@@ -314,7 +312,7 @@ IRR Valid67.219.180.0/24	Yipit, Inc.
 85.115.38.0/24	Forcepoint Cloud LtdUnited Kingdom
 87.248.134.0/24	CALLWITHME LTD.Iran, Islamic Republic of
 89.248.71.0/24	T.K Bytech LTDCyprus
-IRR Valid91.213.81.0/24	JPMorgan Chase & Co
+91.213.81.0/24	JPMorgan Chase & Co
 96.46.128.0/21	SKYLIST INC
 96.46.136.0/21	SKYLIST INC
 98.97.252.0/24	Qualtrics LLC
@@ -322,7 +320,7 @@ IRR Valid91.213.81.0/24	JPMorgan Chase & Co
 98.142.145.0/24	Envysion, Inc.
 98.142.146.0/24	Envysion, Inc.
 98.142.156.0/22	Envysion, Inc.
-IRR Valid98.142.176.0/24	Censo Inc.
+98.142.176.0/24	Censo Inc.
 98.158.236.0/24	SRS Pharmacy Systems, Inc.
 99.77.128.0/24	Amazon.com, Inc.
 99.77.129.0/24	Amazon.com, Inc.
@@ -357,7 +355,7 @@ ROA Signed and Valid99.151.190.0/23
 108.165.38.0/24	Private Customer (C09623163)
 109.68.67.0/24	Emailcenter UK LimitedUnited Kingdom
 109.68.70.0/24	Emailcenter UK LimitedUnited Kingdom
-IRR Valid115.42.47.0/24	Transferred to the ARIN region on 2021-07-23T08:08:06Z.
+115.42.47.0/24	Transferred to the ARIN region on 2021-07-23T08:08:06Z.
 129.33.239.0/24	Acoustic, L.P.
 129.33.240.0/24	Acoustic, L.P.
 129.41.172.0/23	Acoustic, L.P.
@@ -394,7 +392,7 @@ ROA Signed and Valid136.18.132.0/23
 139.180.17.0/24	HubSpot, Inc.
 139.180.244.0/23	Palo Alto Networks, Inc
 141.193.71.0/24	CLICKFUNNELS
-IRR Valid141.193.150.0/24	Validity, Inc.
+141.193.150.0/24	Validity, Inc.
 142.0.191.0/24	SocketLabs
 142.4.178.0/24	
 142.54.41.0/24	Epsilon Data Management LLC
@@ -419,18 +417,18 @@ IRR Valid141.193.150.0/24	Validity, Inc.
 143.244.80.0/24	HubSpot (C07729282)
 143.244.88.0/21	HubSpot, Inc.
 144.2.154.0/24	
-IRR Valid144.81.129.0/24	Educational Testing Service
-IRR Valid144.81.130.0/24	Educational Testing Service
-IRR Valid144.81.131.0/24	Educational Testing Service
-IRR Valid144.81.132.0/22	Educational Testing Service
-IRR Valid144.81.136.0/22	Educational Testing Service
-IRR Valid144.81.140.0/24	Educational Testing Service
+144.81.129.0/24	Educational Testing Service
+144.81.130.0/24	Educational Testing Service
+144.81.131.0/24	Educational Testing Service
+144.81.132.0/22	Educational Testing Service
+144.81.136.0/22	Educational Testing Service
+144.81.140.0/24	Educational Testing Service
 144.86.185.0/24	COUCHBASE, INC
 144.86.202.0/24	SWBC
 146.71.3.0/24	Arterra Mobility
 147.160.167.0/24	Knowbe4, Inc
 148.5.72.0/24	Agilent Technologies
-IRR Valid148.59.24.0/24	National Railroad Passenger Corporation (C07807444)
+148.59.24.0/24	National Railroad Passenger Corporation (C07807444)
 148.59.77.0/24	VIAC Services Company
 148.59.78.0/24	IGS Energy
 148.135.208.0/20	Brander Group Inc.
@@ -447,7 +445,7 @@ IRR Valid148.59.24.0/24	National Railroad Passenger Corporation (C07807444)
 155.63.218.0/24	Trimble, Inc.
 155.226.208.0/20	Salesforce.com, Inc.
 156.70.108.0/24	Granite Telecommunications LLC (C08082277)
-IRR Valid156.154.19.0/24	NeuStar, Inc.
+156.154.19.0/24	NeuStar, Inc.
 157.53.254.0/24	NetActuate, Inc
 157.166.138.0/23	Turner Broadcasting System, Inc.
 157.167.184.0/21	United Kingdom
@@ -471,7 +469,7 @@ ROA Signed and Valid161.178.128.0/18
 162.213.127.0/24	HEDGESERV CORPORATION
 162.213.204.0/24	
 162.215.224.0/23	Unified Layer
-IRR Valid162.219.14.0/24	AlidaCanada
+162.219.14.0/24	AlidaCanada
 162.246.176.0/24	Conductor, Inc.
 162.246.183.0/24	Conductor, Inc.
 162.247.162.0/24	iCIMS
@@ -483,7 +481,7 @@ IRR Valid162.219.14.0/24	AlidaCanada
 163.123.175.0/24	Wandera
 163.253.46.0/24	Internet2
 164.55.234.0/24	FactSet Research Systems, Inc.
-IRR Valid164.55.247.0/24	FactSet Research Systems, Inc.
+164.55.247.0/24	FactSet Research Systems, Inc.
 164.153.128.0/24	Adaptiv Networks Inc.
 164.153.129.0/24	Adaptiv Networks Inc.
 165.140.133.0/24	FIA Technology Services, LLC
@@ -559,7 +557,7 @@ IRR Valid164.55.247.0/24	FactSet Research Systems, Inc.
 185.237.4.0/24	monday.com LTDIsrael
 192.0.55.0/24	Q2 Software, Inc.
 192.30.228.0/22	Resonate Networks, Inc.
-IRR Valid192.31.109.0/24	Lotame Solutions, Inc.
+192.31.109.0/24	Lotame Solutions, Inc.
 192.43.175.0/24	
 192.58.252.0/24	Kaltura Inc
 192.64.236.0/24	Sailthru, INC
@@ -570,7 +568,7 @@ IRR Valid192.31.109.0/24	Lotame Solutions, Inc.
 192.80.241.0/24	PG&E
 192.80.243.0/24	PG&E
 192.80.245.0/24	PG&E
-IRR Valid192.81.99.0/24	Invaluable
+192.81.99.0/24	Invaluable
 192.92.97.0/24	ActiveCampaign, Inc.
 192.94.124.0/24	World Streamedia Inc.
 192.111.4.0/24	Cisco Security
@@ -581,7 +579,7 @@ IRR Valid192.81.99.0/24	Invaluable
 192.146.118.0/24	HostRocket Web Services
 192.149.210.0/24	Online Datavault, LLC
 192.156.219.0/24	Acoustic, L.P.
-IRR Valid192.159.123.0/24	Network Box USA
+192.159.123.0/24	Network Box USA
 192.161.148.0/24	Zendesk, Inc.
 192.161.149.0/24	Zendesk, Inc.
 192.161.150.0/24	Zendesk, Inc.
@@ -599,7 +597,7 @@ IRR Valid192.159.123.0/24	Network Box USA
 192.230.238.0/24	Blackboard Inc.
 192.234.105.0/24	Van Eck Associates Corporation
 192.245.186.0/24	Primacy
-IRR Valid192.251.86.0/24	Avago Technologies U.S. Inc.
+192.251.86.0/24	Avago Technologies U.S. Inc.
 193.5.144.0/24	Vuture LTDUnited Kingdom
 193.25.50.0/24	Netherlands
 193.149.136.0/24	
@@ -611,14 +609,14 @@ IRR Valid192.251.86.0/24	Avago Technologies U.S. Inc.
 198.17.127.0/24	Team Air Express, Inc.
 198.97.52.0/24	Nutshell, Inc.
 198.99.123.0/24	Agency Revolution, Inc.
-IRR Valid198.99.138.0/24	Livery Coach Solutions, LLC
+198.99.138.0/24	Livery Coach Solutions, LLC
 198.99.189.0/24	Dogwood Creek Farms and Consultants
-IRR Valid198.135.168.0/24	Various Registries (Maintained by ARIN)
-IRR Valid198.136.165.0/24	InformAbility
+198.135.168.0/24	Various Registries (Maintained by ARIN)
+198.136.165.0/24	InformAbility
 198.137.239.0/24	Avaaz
 198.160.36.0/24	The Bessemer Group, Inc.
 198.176.122.0/24	
-IRR Valid198.177.255.0/24	20-3191847
+198.177.255.0/24	20-3191847
 198.178.114.0/24	Dealer Marketing Services
 198.178.115.0/24	Dealer Marketing Services
 198.204.9.0/24	CCC Intelligent Solutions Inc.
@@ -630,20 +628,20 @@ IRR Valid198.177.255.0/24	20-3191847
 199.19.89.0/24	Second Street
 199.19.90.0/24	Second Street
 199.19.91.0/24	Second Street
-IRR Valid199.19.192.0/24	BroadSoft, Inc.
+199.19.192.0/24	BroadSoft, Inc.
 199.30.176.0/24	Desire2Learn IncorporatedCanada
 199.43.185.0/24	Veritas Technologies LLC
-IRR Valid199.43.188.0/24	Avago Technologies U.S. Inc.
+199.43.188.0/24	Avago Technologies U.S. Inc.
 199.47.128.0/24	Misk.com, Inc.
 199.47.129.0/24	Misk.com, Inc.
-IRR Valid199.47.171.0/24	Smarsh Inc
+199.47.171.0/24	Smarsh Inc
 199.48.174.0/24	REPUBLIC NATIONAL DISTRIBUTING COMPANY
 199.59.240.0/24	Bodis, LLC
 199.65.18.0/24	Johnson & Johnson
 199.65.19.0/24	Johnson & Johnson
 199.65.241.0/24	Johnson & Johnson
 199.87.144.0/24	
-IRR Valid199.91.149.0/24	TITLEMAX OF GEORGIA, INC.
+199.91.149.0/24	TITLEMAX OF GEORGIA, INC.
 199.180.140.0/24	hibu inc.
 199.184.207.0/24	HomeCU, LLC
 199.188.156.0/24	truelogic LLC
@@ -653,14 +651,14 @@ IRR Valid199.91.149.0/24	TITLEMAX OF GEORGIA, INC.
 199.255.242.0/24	MERCHANT ESOLUTIONS, INC.
 200.12.196.0/24	NIC.EC S.A.Ecuador
 203.175.0.0/24	MECO Enterprises Inc.Philippines
-IRR Valid204.8.28.0/24	TreviPay
-IRR Valid204.8.30.0/24	Multi Service
+204.8.28.0/24	TreviPay
+204.8.30.0/24	Multi Service
 204.75.186.0/24	NYK Business Systems Americas, Inc.
 204.75.187.0/24	NYK Business Systems Americas, Inc.
 204.75.188.0/24	NYK Business Systems Americas, Inc.
 204.75.189.0/24	NYK Business Systems Americas, Inc.
 204.77.169.0/24	Lookout, Inc.
-IRR Valid204.77.194.0/24	Digiroam, LLC
+204.77.194.0/24	Digiroam, LLC
 204.86.13.0/24	Apptio Inc
 204.89.148.0/24	Plivo Inc
 204.89.149.0/24	Plivo Inc
@@ -680,11 +678,11 @@ IRR Valid204.77.194.0/24	Digiroam, LLC
 205.201.47.0/24	HIGHER LOGIC
 205.201.59.0/24	Southern Internet, Inc.
 205.220.189.0/24	Proofpoint, Inc.
-IRR Valid205.233.0.0/24	Mandiant, Inc.
+205.233.0.0/24	Mandiant, Inc.
 205.235.120.0/24	VULCAN MATERIALS COMPANY
 206.55.100.0/24	SecureWorks Corp
 206.55.102.0/24	SecureWorks Corp
-IRR Valid206.126.254.0/24	BCN Telecom Inc.
+206.126.254.0/24	BCN Telecom Inc.
 206.130.43.0/24	OptiPub, LLC
 206.146.130.0/24	Inteliquent, inc.
 206.146.131.0/24	Inteliquent, inc.
@@ -696,7 +694,7 @@ IRR Valid206.126.254.0/24	BCN Telecom Inc.
 206.252.136.0/24	AWS-LW-NETWORKING (C08841573)
 207.2.117.0/24	Telzio, Inc.
 207.110.136.0/24	Wawa Inc.
-IRR Valid207.202.16.0/24	IDT Corporation
+207.202.16.0/24	IDT Corporation
 207.230.136.0/24	iHeartCommunications, Inc.
 207.230.140.0/24	iHeartCommunications, Inc.
 207.230.141.0/24	iHeartCommunications, Inc.
@@ -746,51 +744,9 @@ IRR Valid207.202.16.0/24	IDT Corporation
 209.188.101.0/24	
 209.200.231.0/24	Technology Innovation Lab (C09232591)Canada
 209.209.25.0/24	FLOCK SERVICES INC
-IRR Valid213.156.160.0/24	Accenture UK LimitedUnited Kingdom
-IRR Valid213.156.161.0/24	NortonLifeLock Ireland LimitedUnited Kingdom
-IRR Valid213.156.162.0/24	Accenture UK LimitedUnited Kingdom
-IRR Valid213.156.163.0/24	NortonLifeLock Ireland LimitedUnited Kingdom
-IRR Valid213.156.164.0/24	Accenture UK LimitedUnited Kingdom
-IRR Valid213.156.165.0/24	Accenture UK LimitedUnited Kingdom
-216.9.199.0/24	Code 42 Software
-216.73.152.0/24	Cloudtunnel
-216.75.100.0/22	IPN Telecom, LLC
-216.83.167.0/24	LaaSer Critical Communications Corp.
-216.115.21.0/24	Vonage Holdings, Inc.
-216.115.22.0/24	Vonage Holdings, Inc.
-216.115.212.0/24	LogMeIn, Inc.
-216.117.204.0/24	Keyway Network Systems
-216.117.205.0/24	Keyway Network Systems
-216.117.206.0/24	Keyway Network Systems
-216.117.207.0/24	Keyway Network Systems
-216.117.249.0/24	Outdoor Management Services, Inc
-216.120.134.0/24	Rehmann Technology Solutions, LLC
-216.120.161.0/24	Rehmann Technology Solutions, LLC
-216.120.188.0/24	Rehmann Technology Solutions, LLC
-216.147.2.0/24	Vonage Business Inc.
-216.147.8.0/24	
-216.147.14.0/24	Vonage Business Inc.
-216.147.22.0/24	Vonage Business Inc.
-216.147.28.0/24	Vonage Business Inc.
-IRR Valid216.152.64.0/24	CONRADIT, LLC
-IRR Valid216.152.66.0/24	CONRADIT, LLC
-IRR Valid216.152.67.0/24	CONRADIT, LLC
-216.152.77.0/24	JSCM Group, LLC
-IRR Valid216.157.156.0/24	Splunk, Inc.
-IRR Valid216.169.147.0/24	INTELITY, Inc.
-216.182.224.0/21	Amazon.com, Inc.
-216.182.232.0/22	Amazon.com, Inc.
-216.182.238.0/23	Amazon.com, Inc.
-216.185.208.0/24	AWeber Systems, Inc.
-216.185.209.0/24	AWeber Systems, Inc.
-216.185.210.0/24	AWeber Systems, Inc.
-216.185.211.0/24	
-216.198.1.0/24	Zendesk, Inc.
-216.198.4.0/24	Zendesk, Inc.
-216.219.112.0/24	LogMeIn, Inc.
-216.230.13.0/24	Cvent, Inc.
-216.230.14.0/24	Cvent, Inc.
-216.231.193.0/24	Pomeroy IT Solutions Sales Company, Inc.
-216.231.196.0/24	Pomeroy IT Solutions Sales Company, Inc.
-216.231.207.0/24	Pomeroy IT Solutions Sales Company, Inc.
-216.247.236.0/24	Weiss Asset Management LP
+213.156.160.0/24	Accenture UK LimitedUnited Kingdom
+213.156.161.0/24	NortonLifeLock Ireland LimitedUnited Kingdom
+213.156.162.0/24	Accenture UK LimitedUnited Kingdom
+213.156.163.0/24	NortonLifeLock Ireland LimitedUnited Kingdom
+213.156.164.0/24	Accenture UK LimitedUnited Kingdom
+213.156.165.0/24	Accenture UK LimitedUnited Kingdom
